@@ -5,6 +5,7 @@ const appetizers = [
     description: "10 unidades de franguinhos empanados + molho tropical. :)",
     values: {
       small: 20,
+      large: null,
     },
   },
   {

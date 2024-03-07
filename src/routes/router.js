@@ -1,6 +1,7 @@
-const hamburgers = require("../models/hamburgers");
 const categories = require("../models/categories");
 const appetizers = require("../models/appetizers");
+const hamburgers = require("../models/hamburgers");
+const desserts = require("../models/desserts");
 const paymentOptions = require("../models/paymentOptions");
 const createOrder = require("../models/createOrder");
 const login = require("../models/login");
@@ -32,6 +33,20 @@ const router = [
     path: "/appetizers",
     handler: (request, h) => {
       return appetizers;
+    },
+  },
+  {
+    method: "GET",
+    path: "/desserts",
+    handler: (request, h) => {
+      return desserts;
+    },
+  },
+  {
+    method: "GET",
+    path: "/beverages",
+    handler: (request, h) => {
+      return beverages;
     },
   },
   {
