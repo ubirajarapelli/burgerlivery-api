@@ -2,6 +2,7 @@ const categories = require("../models/categories");
 const appetizers = require("../models/appetizers");
 const hamburgers = require("../models/hamburgers");
 const desserts = require("../models/desserts");
+const beverages = require("../models/beverages");
 const paymentOptions = require("../models/paymentOptions");
 const createOrder = require("../models/createOrder");
 const login = require("../models/login");
