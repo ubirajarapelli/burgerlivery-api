@@ -1,9 +1,9 @@
 const categories = [
-  { text: "Entradinhas", link: "/entradas" },
-  { text: "Burgers", link: "/hamburgers" },
-  { text: "Combos", link: "/combos" },
-  { text: "Sobremesas", link: "/sobremesas" },
-  { text: "Bebidas", link: "/bebidas" },
+  { text: "Combos", link: "combos" },
+  { text: "Burgers", link: "hamburgers" },
+  { text: "Porções", link: "porcoes" },
+  { text: "Bebidas", link: "bebidas" },
+  { text: "Sobremesas", link: "sobremesas" },
 ];
 
 module.exports = categories;

@@ -12,7 +12,7 @@ const appetizers = [
     image: "https://files.menudino.com/cardapios/37486/19.jpg",
     title: "BATATA TRADICIONAL",
     description: "Batatas sequinhas de 7mm! :)",
-    value: {
+    values: {
       small: 12,
       large: 20,
     },
@@ -22,7 +22,7 @@ const appetizers = [
     title: "BATATA CHEDDAR E BACON",
     description:
       "Batatas sequinhas de 7mm, cobertas com delicioso creme de cheddar e cubinhos de bacon! :) ",
-    value: {
+    values: {
       small: 20,
       large: 27,
     },
@@ -31,7 +31,7 @@ const appetizers = [
     image: "https://files.menudino.com/cardapios/37486/161.jpg",
     title: "ONION RINGS",
     description: "Anéis de cebola crocantes! :)",
-    value: {
+    values: {
       small: 13,
       large: 22,
     },
