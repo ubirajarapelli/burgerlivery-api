@@ -6,11 +6,13 @@ Simple API REST Based to comunicate with Burgerlivery front-end application.
 
 ### URL Base
 
-`burgerlivery-api.vercel.app`
+> `https://burgerlivery-api.vercel.app/`
 
 `GET` **/categories**  
+
 **Params:**  
 _No params_  
+
 **Response:**  
 ```TS
 [
@@ -22,10 +24,12 @@ _No params_
 ]
 ```
 
-`GET` **/hamburgers**
-**Params:**
-_No params_
-**Response:**
+`GET` **/hamburgers**  
+
+**Params:**  
+_No params_  
+
+**Response:**  
 ```TS
 [
   {
@@ -42,9 +46,11 @@ _No params_
 ```
 
 `GET` **/appetizers**
-**Params:**
-_No params_
-**Response:**
+
+**Params:**  
+_No params_  
+
+**Response:**  
 ```TS
 [
   {
@@ -61,9 +67,11 @@ _No params_
 ```
 
 `GET` **/desserts**
-**Params:**
-_No params_
-**Response:**
+
+**Params:**  
+_No params_  
+
+**Response:**  
 ```TS
 [
   {
@@ -77,9 +85,11 @@ _No params_
 ```
 
 `GET` **/beverages**
-**Params:**
+
+**Params:**  
 _No params_
-**Response:**
+
+**Response:**  
 ```TS
 [
   {
@@ -93,9 +103,11 @@ _No params_
 ```
 
 `GET` **/payment/options**
-**Params:**
+
+**Params:**  
 _No params_
-**Response:**
+
+**Response:**  
 ```TS
 [
   { 
@@ -106,7 +118,8 @@ _No params_
 ]
 ```
 
-`POST` **/order/create-order**
+`POST` **/order/create-order**  
+
 **Params:**
 ```TS
 {
@@ -130,6 +143,7 @@ _No params_
 ```
 
 `POST` **/user/login**
+
 **Params:**
 ```TS
 {
