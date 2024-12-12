@@ -2,7 +2,9 @@ const createOrder = function (request, h) {
   const authHeader = request.headers["authorization"];
 
   if (!authHeader) {
-    return h.response({ error: "Token não fornecido" }).code(401);
+    return h
+      .response({ error: "Você não está autorizado a acessar esse conteúdo" })
+      .code(401);
   }
 
   const payload = request.payload;
