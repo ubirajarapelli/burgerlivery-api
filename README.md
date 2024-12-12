@@ -69,6 +69,7 @@ _No params_
   }
 ]
 ```
+___
 
 #### `GET` **/desserts**
 
@@ -87,6 +88,7 @@ _No params_
   }
 ]
 ```
+___
 
 #### `GET` **/beverages**
 
@@ -105,6 +107,7 @@ _No params_
   }
 ]
 ```
+___
 
 #### `GET` **/payment/options**
 
@@ -121,6 +124,7 @@ _No params_
   }
 ]
 ```
+___
 
 #### `POST` **/order/create-order**  
 
@@ -145,6 +149,7 @@ _No params_
   details: object,
 }
 ```
+___
 
 #### `POST` **/user/login**
 
