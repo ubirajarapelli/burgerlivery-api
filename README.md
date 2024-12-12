@@ -6,7 +6,7 @@ Simple API REST Based to comunicate with Burgerlivery front-end application.
 
 ### URL Base
 
-> `https://burgerlivery-api.vercel.app/`
+`https://burgerlivery-api.vercel.app/`
 
 ___
 
@@ -163,8 +163,8 @@ ___
 **Response:**
 ```TS
 {
-  userName: string
-  email: string
+  userName: string,
+  email: string,
   token: string
 }
 ```
