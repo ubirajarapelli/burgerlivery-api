@@ -8,6 +8,8 @@ Simple API REST Based to comunicate with Burgerlivery front-end application.
 
 > `https://burgerlivery-api.vercel.app/`
 
+___
+
 #### `GET` **/categories**  
 
 **Params:**  
@@ -23,6 +25,7 @@ _No params_
   }
 ]
 ```
+___
 
 #### `GET` **/hamburgers**  
 
@@ -44,6 +47,7 @@ _No params_
   }
 ]
 ```
+___
 
 #### `GET` **/appetizers**
 
