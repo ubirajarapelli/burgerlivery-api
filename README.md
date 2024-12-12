@@ -4,10 +4,14 @@ Simple API REST Based to comunicate with Burgerlivery front-end application.
 
 ## Endpoints
 
-`GET` **/categories**
-**Params:**
-_No params_
-**Response:**
+### URL Base
+
+`burgerlivery-api.vercel.app`
+
+`GET` **/categories**  
+**Params:**  
+_No params_  
+**Response:**  
 ```TS
 [
   { 
