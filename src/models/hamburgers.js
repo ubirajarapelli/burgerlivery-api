@@ -1,5 +1,6 @@
 const hamburgers = [
   {
+    id: 1,
     image: [
       "https://files.menudino.com/cardapios/37486/222.jpg",
       "https://files.menudino.com/cardapios/37486/211.jpg",
@@ -13,6 +14,7 @@ const hamburgers = [
     },
   },
   {
+    id: 2,
     image: [
       "https://files.menudino.com/cardapios/37486/212.jpg",
       "https://files.menudino.com/cardapios/37486/79.jpg",
@@ -26,6 +28,7 @@ const hamburgers = [
     },
   },
   {
+    id: 3,
     image: [
       "https://files.menudino.com/cardapios/37486/123.jpg",
       "https://files.menudino.com/cardapios/37486/47.jpg",
@@ -39,6 +42,7 @@ const hamburgers = [
     },
   },
   {
+    id: 4,
     image: [
       "https://files.menudino.com/cardapios/37486/5.jpg",
       "https://files.menudino.com/cardapios/37486/47.jpg",
@@ -52,6 +56,7 @@ const hamburgers = [
     },
   },
   {
+    id: 5,
     image: [
       "https://files.menudino.com/cardapios/37486/15.jpg",
       "https://files.menudino.com/cardapios/37486/78.jpg",
@@ -65,6 +70,7 @@ const hamburgers = [
     },
   },
   {
+    id: 6,
     image: [
       "https://files.menudino.com/cardapios/37486/117.jpg",
       "https://files.menudino.com/cardapios/37486/80.jpg",
@@ -78,6 +84,7 @@ const hamburgers = [
     },
   },
   {
+    id: 7,
     image: [
       "https://files.menudino.com/cardapios/37486/16.jpg",
       "https://files.menudino.com/cardapios/37486/82.jpg",
@@ -91,6 +98,7 @@ const hamburgers = [
     },
   },
   {
+    id: 8,
     image: [
       "https://files.menudino.com/cardapios/37486/17.jpg",
       "https://files.menudino.com/cardapios/37486/83.jpg",

@@ -1,11 +1,13 @@
 const desserts = [
   {
+    id: 1,
     image: "https://files.menudino.com/cardapios/37486/232.jpg",
     title: "PUDIM DOS DEUSES",
     description: "Um delicioso Pudim dos deuses 130gr.",
     value: 14,
   },
   {
+    id: 2,
     image: "https://files.menudino.com/cardapios/37486/156.jpg",
     title: "SWEET FRIES",
     description:
@@ -13,6 +15,7 @@ const desserts = [
     value: 22,
   },
   {
+    id: 3,
     image: "https://files.menudino.com/cardapios/37486/127.jpg",
     title: "SWEET BURGER",
     description:

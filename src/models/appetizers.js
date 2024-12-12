@@ -1,5 +1,6 @@
 const appetizers = [
   {
+    id: 1,
     image: "https://files.menudino.com/cardapios/37486/160.jpg",
     title: "CHICKEN SUPREME",
     description: "10 unidades de franguinhos empanados + molho tropical. :)",
@@ -9,6 +10,7 @@ const appetizers = [
     },
   },
   {
+    id: 2,
     image: "https://files.menudino.com/cardapios/37486/19.jpg",
     title: "BATATA TRADICIONAL",
     description: "Batatas sequinhas de 7mm! :)",
@@ -18,6 +20,7 @@ const appetizers = [
     },
   },
   {
+    id: 3,
     image: "https://files.menudino.com/cardapios/37486/21.jpg",
     title: "BATATA CHEDDAR E BACON",
     description:
@@ -28,6 +31,7 @@ const appetizers = [
     },
   },
   {
+    id: 4,
     image: "https://files.menudino.com/cardapios/37486/161.jpg",
     title: "ONION RINGS",
     description: "Anéis de cebola crocantes! :)",
