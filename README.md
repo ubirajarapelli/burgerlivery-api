@@ -131,7 +131,7 @@ ___
 **Params:**
 ```TS
 {
-  items [
+  items: [
     {
       title: string,
       value: number

@@ -6,11 +6,10 @@ const login = function (request, h) {
     (payload.login === "manoeljuandapaz@gmail.com.br" &&
       payload.password === "Pedra0143@")
   ) {
-    const token = {
-      token: Buffer.from(`${payload.login}.${payload.password}`).toString(
-        "base64"
-      ),
-    };
+    const token = Buffer.from(`${payload.login}.${payload.password}`).toString(
+      "base64"
+    );
+
     return {
       userName:
         payload.login === "eliane_almeida@gmail.com.br"
