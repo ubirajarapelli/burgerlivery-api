@@ -1,6 +1,6 @@
 # Burgerlivery API
 
-Simple API REST Based to comunicate with Burgerlivery front-end application.
+Simple Mock API REST Based to comunicate with Burgerlivery front-end application.
 
 ## Endpoints
 
@@ -168,3 +168,13 @@ ___
   token: string
 }
 ```
+
+## Login data
+
+### User 1
+  **login:** eliane_almeida@gmail.com.br  
+  **password:** Prior8756@  
+
+### User 2
+  **login:** manoeljuandapaz@gmail.com.br  
+  **password:** Pedra0143@  
