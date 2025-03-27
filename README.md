@@ -6,7 +6,7 @@ Simple Mock API REST Based to comunicate with Burgerlivery front-end application
 
 ### URL Base
 
-`https://burgerlivery-api.vercel.app/`
+`https://burgerlivery-api.vercel.app`
 
 ___
 
